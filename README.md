@@ -9,4 +9,6 @@ This repository contains an analysis of car sales data, exploring various factor
 * Exploring regional variations in car sales across different dealerships.
 * Removing outliers and cleaning the dataset to ensure accurate analysis.
 
+The analysis is also available on Kaggle: [Car Sales Analysis Notebook](https://www.kaggle.com/code/andriipysarevskyi/car-sales-analysis).
+
 This project is part of my Data Scientist portfolio, and you can view my portfolio website here: [My Portfolio](https://apysarevskyi.github.io/)
